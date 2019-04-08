@@ -1,7 +1,7 @@
 {
   "lengthUnit": "Meter",
   "timeStep": 0.02,
-  "maxVelocity": 2.3,
+  "maxVelocity": 3.0,
   "maxAcceleration": 0.75,
   "maxJerk": 20.0,
   "wheelBase": 0.7112,
